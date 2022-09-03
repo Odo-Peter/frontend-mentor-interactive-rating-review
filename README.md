@@ -16,8 +16,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -42,7 +40,7 @@ Holding ctrl, click on the above link to access the images from the challange.
 ### Links
 
 - Solution URL: (https://github.com/Odo-Peter/frontend-mentor-interactive-rating-review)
-- (https://frontend-mentor-interactive-rating-review-lsun67pp8-odo-peter.vercel.app)
+- Live Site URL: (https://frontend-mentor-interactive-rating-review-lsun67pp8-odo-peter.vercel.app)
 
 ## My process
 
