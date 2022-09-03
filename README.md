@@ -79,7 +79,7 @@ reviews.forEach((review) => {
 
 ### Continued development
 
-In future projects or challenges, I'ld love to write a function that removes the class of 'active' on a given 'span' when another 'span' is being clicked i.e, in handling event listeners in javascript, all clicked 'span', shouldn't have the class 'active' at the same time.
+In future projects or challenges, I'ld love to write a function that removes the class of 'active' on a given 'span' when another 'span' is being clicked i.e, in handling event listeners in JavaScript, all clicked 'span', shouldn't have the class 'active' at the same time.
 
 ### Useful resources
 
