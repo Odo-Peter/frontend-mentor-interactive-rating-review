@@ -11,12 +11,18 @@ function reviewState(e) {
   individualRating = e.target.id;
   rating.innerHTML = individualRating;
 
-  e.target.style.color = 'var(--white)';
-  e.target.style.backgroundColor = 'var(--paragraph-color)';
+  reviews.forEach((review) => {
+    review.classList.remove('active');
+  });
+
+  e.target.classList.add('active');
+  //e.target.style.backgroundColor = 'var(--paragraph-color)';
 }
 function submit() {
-  reviewPage.style.display = 'none';
-  thankYouPage.style.display = 'block';
+  if (individualRating) {
+    reviewPage.style.display = 'none';
+    thankYouPage.style.display = 'block';
+  }
 }
 
 reviews.forEach((review) => {

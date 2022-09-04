@@ -101,13 +101,7 @@ body {
   cursor: pointer;
 }
 
-.container1 .span-div .ratings:active {
-  color: var(--white);
-  background-color: var(--paragraph-color);
-  cursor: pointer;
-}
-
-.active {
+.container1 .span-div .ratings.active {
   color: var(--white);
   background-color: var(--paragraph-color);
   cursor: pointer;
